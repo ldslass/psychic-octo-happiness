@@ -6,4 +6,5 @@ Work shown includes demonstration of the following:
 
 	Lists	
 	Tuples
+	Dictionaries
 
