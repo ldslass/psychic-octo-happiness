@@ -5,4 +5,6 @@ This project is work that is the result of the Python for Data Science course, i
 Work shown includes demonstration of the following:
 
 	Lists
+	
+	Tuples
 
