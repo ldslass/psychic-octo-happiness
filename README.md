@@ -8,4 +8,8 @@ Work shown includes demonstration of the following:
 	Tuples
 	Dictionaries
 	Sets
+	Conditions
+	Branching
+	Loops
+	
 
