@@ -11,5 +11,5 @@ Work shown includes demonstration of the following:
 	Conditions
 	Branching
 	Loops
-	
+	Functions
 
